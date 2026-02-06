@@ -1,0 +1,7 @@
+name,email,role,password
+John Doe,john.doe@test.com,USER,Password123
+Jane Smith,jane.smith@test.com,MANAGER,Manager456
+Admin Import,admin.import@test.com,ADMIN,Admin789
+Bob Wilson,bob.wilson@test.com,USER,
+Sarah Johnson,sarah.johnson@test.com,MANAGER,Pass123
+Michael Brown,michael.brown@test.com,USER,UserPass

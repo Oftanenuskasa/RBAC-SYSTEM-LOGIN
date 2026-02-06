@@ -1,0 +1,4 @@
+name,email,role,password
+John Doe,john.doe@company.com,USER,Password123
+Jane Manager,jane.manager@company.com,MANAGER,ManagerPass456
+Admin Import,admin.import@company.com,ADMIN,AdminPass789
